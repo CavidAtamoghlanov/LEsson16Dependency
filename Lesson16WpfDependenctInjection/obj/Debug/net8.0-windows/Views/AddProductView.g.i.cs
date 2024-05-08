@@ -53,7 +53,7 @@ namespace Lesson16WpfDependenctInjection.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Lesson16WpfDependenctInjection;component/views/addproductview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Lesson16WpfDependenctInjection;V1.0.0.0;component/views/addproductview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\AddProductView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

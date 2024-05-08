@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QdYNud5e6yHDL/B/89xM3E/kp09ES4vyobgrD8m/kf4lzWtAqzE13pUOX6pNLv1Cdsj0vZNuOLA25J4XDsQVFg==",
+  "dgSpecHash": "10rzHOFz7jnd6OZXy63gOMpvbKNPaUIWpvuxjV3i8gFzD33iIe13mYOZ+PGFJKaebznbhpLm40H8Wjxcv9vecg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
+  "projectFilePath": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\simpleinjector\\5.4.5\\simpleinjector.5.4.5.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\simpleinjector\\5.4.5\\simpleinjector.5.4.5.nupkg.sha512",
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
   ],
   "logs": []
 }
