@@ -2,6 +2,19 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+    "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+        "projectName": "Lesson16WpfDependenctInjection",
+        "projectPath": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+        "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\obj\\",
+=======
+<<<<<<< HEAD
     "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {}
   },
   "projects": {
@@ -26,16 +39,21 @@
         "packagesPath": "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\obj\\",
 >>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
+>>>>>>> a1e6378791abb5b487abedf280a35bb68586adc3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+          "C:\\Users\\Muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
           "C:\\Users\\Talib_ip88\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
           "C:\\Users\\atamoghlanov_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
+>>>>>>> a1e6378791abb5b487abedf280a35bb68586adc3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -57,11 +75,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -92,7 +105,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

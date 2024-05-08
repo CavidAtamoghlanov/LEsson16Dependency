@@ -1,6 +1,19 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "wMnLGhLqqTzidFG5+SHTcAbirMzVFfPQfMWZVEN8XwsARYko2EhnRc/xsaV798axEE1Ge09i8TKNyYpIt9PXAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\simpleinjector\\5.4.5\\simpleinjector.5.4.5.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+=======
+<<<<<<< HEAD
   "dgSpecHash": "10rzHOFz7jnd6OZXy63gOMpvbKNPaUIWpvuxjV3i8gFzD33iIe13mYOZ+PGFJKaebznbhpLm40H8Wjxcv9vecg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
@@ -25,6 +38,7 @@
     "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
     "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
 >>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
+>>>>>>> a1e6378791abb5b487abedf280a35bb68586adc3
   ],
   "logs": []
 }
