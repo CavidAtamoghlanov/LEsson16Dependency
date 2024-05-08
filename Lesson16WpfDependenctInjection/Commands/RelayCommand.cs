@@ -1,7 +1,10 @@
 ﻿using System.Windows.Input;
 
 namespace Lesson16WpfDependenctInjection.Commands;
-
+/*
+Salam A dostlar 
+ 
+*/
 public class RelayCommand : ICommand
 {
     public event EventHandler? CanExecuteChanged
@@ -12,7 +15,7 @@ public class RelayCommand : ICommand
 
     private readonly Action<object?> _execute;
     private readonly Predicate<object?>? _canExecute;
-
+    // Salam Ibrahim
     public RelayCommand(Action<object?> execute, Predicate<object?>? canExecute = null)
     {
         _execute = execute ?? throw new ArgumentNullException(nameof(execute));
@@ -26,3 +29,4 @@ public class RelayCommand : ICommand
 
     //Salam Men Mehemmed..
 }
+

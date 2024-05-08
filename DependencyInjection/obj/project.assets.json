@@ -360,23 +360,55 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Muhammad\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Talib_ip88\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\": {},
+>>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
+>>>>>>> a1e6378791abb5b487abedf280a35bb68586adc3
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
       "projectName": "DependencyInjection",
       "projectPath": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\Muhammad\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
+      "projectName": "DependencyInjection",
+      "projectPath": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\DependencyInjection.csproj",
+      "packagesPath": "C:\\Users\\Talib_ip88\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\DependencyInjection\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "projectName": "DependencyInjection",
+      "projectPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "packagesPath": "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\DependencyInjection\\obj\\",
+>>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
+>>>>>>> a1e6378791abb5b487abedf280a35bb68586adc3
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Muhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+        "C:\\Users\\Talib_ip88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\atamoghlanov_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
+>>>>>>> a1e6378791abb5b487abedf280a35bb68586adc3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
