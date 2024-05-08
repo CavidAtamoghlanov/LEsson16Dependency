@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tVh6MA38YuJAbtmp0X3wvMmqLLoXz93L3y5EqmXmKLs/TW5JaxSEGxUSG8QW+tnObNnT9i7rAFgcgj0hCMXPxg==",
+  "dgSpecHash": "WXnvdivwZZLDEDG45wFwrnsYfhQ5A1/EvdVqT6gMjNW4oRLY0l+Kjg9xC8Zy4OHpBV14hgynAgC2FBgDRBMVJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+  "projectFilePath": "C:\\Users\\Muhammad\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\simpleinjector\\5.4.5\\simpleinjector.5.4.5.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+    "C:\\Users\\Muhammad\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\simpleinjector\\5.4.5\\simpleinjector.5.4.5.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
   ],
   "logs": []
 }
