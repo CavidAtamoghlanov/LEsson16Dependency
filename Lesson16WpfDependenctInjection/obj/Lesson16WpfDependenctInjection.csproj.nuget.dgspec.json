@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
         "packagesPath": "C:\\Users\\Talib_ip88\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Talib_ip88\\Source\\Repos\\LEsson16Dependency\\Lesson16WpfDependenctInjection\\obj\\",
+=======
+    "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+        "projectName": "Lesson16WpfDependenctInjection",
+        "projectPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+        "packagesPath": "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\obj\\",
+>>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Talib_ip88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\atamoghlanov_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> beea9c9fc8d79a8ac6fcf7b7e149c69fe0111420
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
