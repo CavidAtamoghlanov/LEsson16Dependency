@@ -1,7 +1,10 @@
 ﻿using System.Windows.Input;
 
 namespace Lesson16WpfDependenctInjection.Commands;
-
+/*
+Salam A dostlar 
+ 
+*/
 public class RelayCommand : ICommand
 {
     public event EventHandler? CanExecuteChanged

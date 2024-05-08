@@ -360,23 +360,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\namiqrasullu\\.nuget\\packages\\": {},
+    "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
       "projectName": "DependencyInjection",
-      "projectPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
-      "packagesPath": "C:\\Users\\namiqrasullu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\DependencyInjection\\obj\\",
+      "projectPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "packagesPath": "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\namiqrasullu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atamoghlanov_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

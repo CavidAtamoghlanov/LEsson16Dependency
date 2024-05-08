@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {}
+    "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {
+    "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+        "projectUniqueName": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
         "projectName": "Lesson16WpfDependenctInjection",
-        "projectPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
-        "packagesPath": "C:\\Users\\namiqrasullu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\obj\\",
+        "projectPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection.csproj",
+        "packagesPath": "C:\\Users\\atamoghlanov_j\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atamoghlanov_j\\Desktop\\Lesson16WpfDependenctInjection\\Lesson16WpfDependenctInjection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\namiqrasullu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\atamoghlanov_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
